@@ -1,6 +1,6 @@
 audit_header: false
-title: "-- MARKET --'s Best Real Estate Training"
-description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
+title: "Broad Brook's Best Real Estate Training"
+description: Lori Gabriel, a top Real Estate Agent in Broad Brook, shares her own internal real estate agent training for free. Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
@@ -10,26 +10,26 @@ custom_links:
   - title: Free Strategy Call
     url: /contact/
 client:
-  name:
+  name: Lori Gabriel
   title:
   license_number:
   about_markdown: |
-
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    A real estate veteran and experienced agent, I have been in real estate since 1993 and has worked hard over the past 25 years to build my brand and my own business. Born and raised in the Agawam, MA area, my extensive knowledge and expertise of the real estate market in Connecticut and Massachusetts have become second nature over the course of my lifetime and work in the industry. As a certified real estate Broker, I have received dozens of specialty achievement awards and certifications including, ABR (Accredited Buyer Representative) and CRS (Certified Residential Specialist), for my dedication to real estate for nearly three decades. As a member of the Cartus Relocation Company, I have the opportunity to assist in relocating USAA Military Families with Navy Federal Credit Union. I also work closely with a Builders and Developers to build new construction homes.
+  market: Broad Brook
+  brand: Team Gabriel
+  brokerage: Coldwell Banker
+  address: 74 Miller Road Broad Brook, CT 06016
+  phone: 860-623-0883
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: ghs@teamgabriel.net
+  url: http://teamgabriel.net
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "Looking to Build Your Real Estate Career?"
-    CTA_text: "Let's talk about how -- CLIENT BRAND -- can take your business to new heights."
+    CTA_text: "Let's talk about how Team Gabriel can take your business to new heights."
     CTA_link_text: "Free Strategy Session"
     CTA_url: /contact/
 
@@ -54,12 +54,12 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/TeamGabriel.RealEstate/
+  linkedin_url: https://www.linkedin.com/in/lorigabriel/
   gplus_url:
   youtube_url:
-  twitter_url:
-  instagram_url:
+  twitter_url: https://twitter.com/_team_gabriel
+  instagram_url: https://www.instagram.com/team_gabriel_lori_gabriel/
   pinterest_url:
   zillow_url:
   trulia_url:
@@ -67,25 +67,25 @@ socials:
   podcast_url:
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: 'Broad Brook Real Estate Podcast with Lori Gabriel'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: '-- CLIENT NAME --'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Broad Brook Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Team Gabriel - your professional Broad Brook Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Broad Brook, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  author: 'Lori Gabriel'
 
 images:
-  client_headshot_path: /img/headshot.jpg
+  client_headshot_path: /img/headshot.png
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text: Broad Brook Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#3286aa'
+  theme_color: '#000'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
