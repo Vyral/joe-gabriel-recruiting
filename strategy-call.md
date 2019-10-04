@@ -39,13 +39,13 @@ permalink: /strategy-call/
 <div class="qanda">
 <p class="section-title">Here’s what a few agents say about working with me…</p>
 
-<p><span class="quote">It has motivated me for having successful transactions to customers and getting new clients. They have taught me what I didn’t know before as a realtor.  - I couldn’t have survived in real estate in the North East without Team Gabriel. It has been the biggest confidence booster.</span><br>
+<p><span class="quote">"Working with Team Gabriel has motivated me into having successful transactions with current customers and helped me get new clients. They have taught me all about the areas I wasn’t familiar with. I couldn’t have survived in real estate in the North East without Team Gabriel. It has been the biggest confidence booster."</span><br>
 <span class="author">- Linda</span></p>
 
-<p><span class="quote">Coming into Real Estate as a Brand-New Agent; Team Gabriel afforded me the opportunity to truly learn the process from start to finish. We are provided continuous opportunities to learn and grow as individual agents, as well as a Team.</span><br>
+<p><span class="quote">"Coming into Real Estate as a Brand-New Agent; Team Gabriel afforded me the opportunity to truly learn the process from start to finish. We are provided continuous opportunities to learn and grow as individual agents, as well as a Team."</span><br>
 <span class="author">- Jillian</span></p>
 
-<p><span class="quote">I appreciate the time and devotion Lori provides to our Team. We are constantly learning and growing with new techniques. She is always motivating and helping us pursue our goals.</span><br>
+<p><span class="quote">"I appreciate the time and devotion Lori provides to our Team. We are constantly learning and growing with new techniques. She is always motivating and helping us pursue our goals."</span><br>
 <span class="author">- Nicole</span></p>
 </div>
 <hr>
