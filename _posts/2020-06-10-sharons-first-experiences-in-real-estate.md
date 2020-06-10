@@ -17,7 +17,7 @@ youtube_code: 3ZThmgze1gA
 
 {% include youtube.html %}
 
-Here are agent Sharon’s experiences and why she joined our team.
+<p style="text-align: center;"><em>Here are agent Sharon’s experiences and why she joined our team.</em></p>
 
 Sharon, an agent on our team, told us about her real estate experience and why she came to work for us:
 
