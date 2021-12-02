@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Why Michelle O’Leary Joined Team Gabriel
-date: 2021-11-29 14:00:00
+date: 2021-12-02 12:00:00
 tags:
   - Interview
 excerpt: Michelle talks about why she got into real estate and joined our team.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Joe+Gabriel/2021/Why+Michelle+O%E2%80%99Leary+Joined+Team+Gabriel.mp4
+enclosure:
 pullquote: >-
   They provided me with training and leads so I could get out there and help
   people fulfill their goals of homeownership.
@@ -14,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: D2fvt44i6dI
+youtube_code: VgVcTewK_VQ
 ---
 {% include youtube.html %}
 
@@ -35,5 +34,3 @@ For Michelle, **the best part about being on a team is that there is constant co
 There were days when she could devote herself fully to real estate and days she couldn’t. However, she appreciated that no matter the day, we could teach, train, and provide her with leads. She had someone to help lead her to that ultimate, satisfying goal of handing someone the keys to their new home.
 
 If you’re looking to join a team or get into real estate, join Team Gabriel. Whether you’re a new or experienced agent, we can help train you as we did with Michelle. Just give us a call.
-
-&nbsp;
