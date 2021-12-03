@@ -6,7 +6,7 @@ tags:
   - Interview
 excerpt: Michelle talks about why she got into real estate and joined our team.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Joe+Gabriel/2021/Why+Michelle+O%E2%80%99Leary+Joined+Team+Gabriel+(1).mp4
+  https://vyralmarketing.s3.amazonaws.com/Joe+Gabriel/2021/Why+Michelle+O%E2%80%99Leary+Joined+Team+Gabriel+(2).mp4
 pullquote: >-
   They provided me with training and leads so I could get out there and help
   people fulfill their goals of homeownership.
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: VgVcTewK_VQ
+youtube_code: rGqJ_qxmtY4
 ---
 {% include youtube.html %}
 
