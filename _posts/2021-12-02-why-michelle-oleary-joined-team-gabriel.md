@@ -3,7 +3,7 @@ layout: post
 title: Why Michelle O’Leary Joined Team Gabriel
 date: 2021-12-02 12:00:00
 tags:
-  - Interview
+  - Testimonial
 excerpt: Michelle talks about why she got into real estate and joined our team.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Joe+Gabriel/2021/Why+Michelle+O%E2%80%99Leary+Joined+Team+Gabriel+(2).mp4
