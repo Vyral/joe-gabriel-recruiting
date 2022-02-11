@@ -3,6 +3,7 @@ layout: post
 title: Where Are Interest Rates Headed?
 date: 2022-02-11 20:18:46
 tags:
+  - Transaction Management
 excerpt: Though interest rates are climbing, they’ll remain very low in 2022.
 enclosure:
 pullquote:
