@@ -16,6 +16,8 @@ youtube_code: foPikkRViUQ
 ---
 {% include youtube.html %}
 
+{% include excerpt.html %}
+
 Today Kayla Zimmerman is sharing her experience of joining Team Gabriel and working with us:
 
 **“I always knew I wanted to be a Realtor, I just didn’t know where to start.** When I found Team Gabriel, I applied to be an assistant, but when Lori and Joe interviewed me, they decided I would make a good Realtor. I joined the team in August 2020 during the pandemic. They were very supportive, and I was excited to jump right into being a real estate agent because that was my ultimate goal.
