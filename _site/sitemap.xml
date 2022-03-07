@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/sharons-first-experiences-in-real-estate.html</loc>
+<lastmod>2020-06-10T11:34:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/why-michelle-oleary-joined-team-gabriel.html</loc>
+<lastmod>2021-12-02T06:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/how-kayla-zimmerman-became-an-agent.html</loc>
+<lastmod>2022-02-24T09:17:47-06:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
