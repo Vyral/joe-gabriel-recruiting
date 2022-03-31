@@ -19,6 +19,8 @@ youtube_code: lawlUuUeelY
 ---
 {% include youtube.html %}
 
+{% include excerpt.html %}
+
 It’s very easy to get overwhelmed when you first join the real estate industry. There’s a big learning curve—you have to figure out so many different programs and applications over the days and weeks of your courses. However, at Team Gabriel, we have a list of onboarding activities that will give you a sense of direction once you’ve been licensed.
 
 After you join a team or brokerage, the next thing we advise you to do is start creating a database. **Create a spreadsheet that includes a couple hundred names of people who know, like, and trust you,** such as your friends, family, work acquaintances, and social media connections. You should also include contact information like their phone numbers, physical addresses, and email addresses.
