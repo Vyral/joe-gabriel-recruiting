@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you’re new to the real estate industry, here’s a crucial first step to
   take.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joe+Gabriel/2022/What+Comes+Next+for+New+Agents_.mp4
 pullquote: >-
   Make sure that everyone in your contact list knows you’re ready to be their
   real estate resource.
