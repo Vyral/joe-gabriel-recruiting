@@ -22,12 +22,12 @@ youtube_code: lawlUuUeelY
 
 {% include excerpt.html %}
 
-It’s very easy to get overwhelmed when you first join the real estate industry. There’s a big learning curve—you have to figure out so many different programs and applications over the days and weeks of your courses. However, at Team Gabriel, we have a list of onboarding activities that will give you a sense of direction once you’ve been licensed.
+It’s very easy to get overwhelmed when you first join the real estate industry. There’s a big learning curve; you have to figure out so many different programs and applications throughout your courses. However, at Team Gabriel, we have a list of onboarding activities that will give you a sense of direction once you’ve been licensed.
 
-After you join a team or brokerage, the next thing we advise you to do is start creating a database. **Create a spreadsheet that includes a couple hundred names of people who know, like, and trust you,** such as your friends, family, work acquaintances, and social media connections. You should also include contact information like their phone numbers, physical addresses, and email addresses.
+After you join a team or brokerage, the next thing we advise you to do is start creating a database. **Create a spreadsheet that includes a few hundred names of people who know, like, and trust you,** such as your friends, family, work acquaintances, and social media connections. You should also include contact information like their phone numbers, mailing addresses, and email addresses.
 
 {% include pullquote.html %}
 
-Once you’ve added everyone to your list, you’ll be able to start your database. This list is vital; with it, you can send out a letter to them all announcing your real estate career. After all, you don’t want to be a secret agent. Make sure that everyone on your contact list knows you’re ready to be their real estate resource.
+Once you’ve added everyone to your list, you’ll be able to start your database. This list is vital. You can start your communication with your database by sending out a letter announcing your real estate career. After all, you don’t want to be a secret agent. Make sure that everyone on your contact list knows you’re ready to be their real estate resource.
 
 We have a list of ideas on how and where to obtain names and contact information for your database. If you’d like a copy of that list or have any questions, don’t hesitate to reach out to us by phone or email. We’re happy to help.
