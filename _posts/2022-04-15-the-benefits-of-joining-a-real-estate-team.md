@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Benefits of Joining a Real Estate Team
-date: 2022-04-15 18:57:20
+date: 2022-04-15 14:57:00
 tags:
   - Team
   - Lead Generation
