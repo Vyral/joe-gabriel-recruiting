@@ -17,6 +17,8 @@ youtube_code: w5_YHkldzuc
 ---
 {% include youtube.html %}
 
+{% include excerpt.html %}
+
 A real estate team is a group of agents who work together to generate leads, manage listings, and collect commission. **The real estate industry has a long reputation for being cutthroat, but it doesn't have to be that way.** Take our team, for example.
 
 At Team Gabriel, you can always expect constant support, accountability, and training. We have agents and specialists. The specialists include the transaction coordinator, videographer, ISA, and an assistant ready to support all the agents on our team. An abundance of leads are provided to our agents, along with all the platforms they‘ll need to create a successful business. Everyone works together in a positive direction and reaps the benefits together.
