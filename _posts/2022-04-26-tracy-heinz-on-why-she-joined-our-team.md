@@ -18,6 +18,8 @@ youtube_code: _iUaod30sBY
 ---
 {% include youtube.html %}
 
+{% include excerpt.html %}
+
 Today we want to share a testimonial from one of our agents, Tracy Heinz. She’s been a fantastic addition to our group, and she has a lot to say about the experience.
 
 Tracy has been in real estate for 15 years, and **she’s a big believer that video is the future of the business.** She was spending countless hours in her office trying to figure things out when she stumbled across our team.
