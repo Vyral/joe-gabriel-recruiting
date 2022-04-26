@@ -5,7 +5,8 @@ date: 2022-04-26 14:04:27
 tags:
   - Testimonial
 excerpt: Here’s what Tracy has to say about her experience with the Gabriel team.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joe+Gabriel/2022/Tracy+Heinz+on+Why+She+Joined+Our+Team.mp4
 pullquote: >-
   Team Gabriel is the first group Tracy has been a member of to follow through
   on our promises.
