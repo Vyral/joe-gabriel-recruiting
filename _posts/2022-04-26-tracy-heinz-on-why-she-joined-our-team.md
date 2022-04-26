@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tracy Heinz on Why She Joined Our Team
-date: 2022-04-26 14:04:27
+date: 2022-04-26 10:04:00
 tags:
   - Testimonial
 excerpt: Here’s what Tracy has to say about her experience with the Gabriel team.
