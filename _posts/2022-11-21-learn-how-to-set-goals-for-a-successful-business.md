@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learn How to Set Goals for a Successful Business
-date: 2022-11-21 07:00:00
+date: 2022-12-05 07:00:00
 tags:
 excerpt: A guide to setting goals for a successful real estate business in 2023.
 enclosure:
@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/11-16-22yt.jpg
-youtube_code: SAtEhP0NB7A
+youtube_code: CQ35kIeYL5w
 ---
 {% include youtube.html %}
 
