@@ -9,7 +9,7 @@ pullquote: When you put your goals down in writing, don't be afraid of them.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/11-16-22yt.jpg
+youtube_alternate_image: /uploads/12-2-22yt-1.jpg
 youtube_code: CQ35kIeYL5w
 ---
 {% include youtube.html %}
