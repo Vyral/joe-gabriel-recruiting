@@ -8,8 +8,8 @@ pullquote: 'In these uncertain times, you need to focus on what you can control.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+youtube_alternate_image: /uploads/4-2.jpg
+youtube_code: gwqo6F8p39g
 ---
 {% include youtube.html %}
 
